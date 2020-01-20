@@ -1,0 +1,6 @@
+E:\console project\ConsoleProject\obj\Debug\ConsoleProject.csprojAssemblyReference.cache
+E:\console project\ConsoleProject\bin\Debug\ConsoleProject.exe.config
+E:\console project\ConsoleProject\bin\Debug\ConsoleProject.exe
+E:\console project\ConsoleProject\bin\Debug\ConsoleProject.pdb
+E:\console project\ConsoleProject\obj\Debug\ConsoleProject.exe
+E:\console project\ConsoleProject\obj\Debug\ConsoleProject.pdb
